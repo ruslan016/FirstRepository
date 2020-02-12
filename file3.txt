@@ -1,3 +1,4 @@
 Hi git!
 
 Hello the line3 for this test!
+Line from user 2
